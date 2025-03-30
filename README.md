@@ -69,7 +69,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
       Utilizar a paleta de cores definida no enunciado.
 
-  ### 📌 Cada tela de feedback deve exibir:
+  ### 🚧 Cada tela de feedback deve exibir:
 
         * Peso, altura, IMC e classificação do usuário (usando TextView)
 
@@ -140,7 +140,7 @@ Cada categoria de IMC terá uma Activity específica, contendo:
 6️⃣ Experiência do Usuário
 
   ### 🎨 Utilização paleta de cores agradável e definida no enunciado:
-📲 Melhorias opcionais: Animações, gráficos ou outros aprimoramentos na interface.
+📲‼️ Melhorias opcionais: Animações, gráficos ou outros aprimoramentos na interface.
 
 - Verde Escuro: #006341
 
