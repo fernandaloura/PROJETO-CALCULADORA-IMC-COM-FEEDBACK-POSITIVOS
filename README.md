@@ -140,6 +140,7 @@ Cada categoria de IMC terá uma Activity específica, contendo:
 
 6️⃣ Experiência do Usuário
 
+
   ### 🎨 Utilização paleta de cores agradável e definida no enunciado:
 📲‼️ Melhorias opcionais: Animações, gráficos ou outros aprimoramentos na interface.
 
