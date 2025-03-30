@@ -9,10 +9,13 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
+## 🛠 Projeto Desenvolvido: 
+CURSO: Ciência da Computação / 3º Semestre
+
 ## 👨 Professor Orientador: 
 <a href="https://www.linkedin.com/in/Vinicius Heltai/">Vinicius Heltai</a> <br>
 
-# 📚 Projeto Calculadora IMC com Feedback Positivos
+# 📚 Projeto Calculadora de IMC com Feedback Positivo 🏋️‍♂️💙
 
 Desenvolvimento de um aplicativo Android em Java que calcula o Índice de Massa Corporal (IMC) e exibe
 um feedback positivo personalizado para cada categoria de IMC. O aplicativo demonstra o
