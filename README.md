@@ -74,11 +74,11 @@ Para o desenvolvimento do app foi utilizado as seguintes tecnologias:<br><br>
 
     * Ao clicar no botão, navegar para a tela de cálculo de IMC (CalculoIMCActivity).
 
-    * Utilizar a paleta de cores definida no enunciado.
+    * Utilizar a paleta de cores definida.
 
 ### 2️⃣ Tela de Cálculo de IMC (CalculoIMCActivity):
 
-    Exibir um logo (imagem) no topo.
+    Exibição de um logo (imagem) no topo.
 
     Apresentar dois campos de entrada de texto:
 
@@ -86,7 +86,7 @@ Para o desenvolvimento do app foi utilizado as seguintes tecnologias:<br><br>
 
         Altura (m)
 
- ### 3️⃣  Apresentar três botões:
+ ### 3️⃣  Apresentação dos três botões:
 
      "Calcular IMC" → Realiza o cálculo do IMC e navega para a tela de feedback correspondente.
 
