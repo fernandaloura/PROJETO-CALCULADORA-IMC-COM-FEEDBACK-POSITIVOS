@@ -18,9 +18,10 @@ Abaixo do resultado da fórmula do IMC também é apresentada a categoria em que
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-### 📋 Pré-requisitos:
-    Java
-    Android Studio.
+### 📱 Desenvolvimento Mobile e Requisitos:
+Para o desenvolvimento do app foi utilizado as seguintes tecnologias:<br><br>
+<img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android Studio" border="0" width="50" align="center">
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" border="0" width="50" align="center">
 
 
 ### 🔧 Instalação:
