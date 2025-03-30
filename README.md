@@ -14,18 +14,18 @@ aplicação de boas práticas de desenvolvimento, a exploração da criatividade
 de uma paleta de cores definida.
 Abaixo do resultado da fórmula do IMC também é apresentada a categoria em que o usuário se encaixa, sendo: Abaixo do peso, Peso normal, Sobrepeso, Obesidade grau 1, Obesidade grau 2 e Obesidade grau 3.
 
-## 🚀 Começando
+## 🚀 Começando:
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
-### 📋 Pré-requisitos
+### 📋 Pré-requisitos:
     Java
     Android Studio.
 
 
-### 🔧 Instalação
+### 🔧 Instalação:
 
 - Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
@@ -40,7 +40,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 ## ⚙️ Funcionalidades e Requisitos:
 
 
-### 1️ Tela Principal (MainActivity)
+### 1️ Tela Principal (MainActivity):
 
 
     * Exibir um logo (imagem) centralizado.
@@ -51,7 +51,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
     * Utilizar a paleta de cores definida no enunciado.
 
-### 2️⃣ Tela de Cálculo de IMC (CalculoIMCActivity) 
+### 2️⃣ Tela de Cálculo de IMC (CalculoIMCActivity):
 
     Exibir um logo (imagem) no topo.
 
@@ -71,7 +71,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
     Utilizar a paleta de cores definida no enunciado.
 
-  ### 📌 Cada tela de feedback deve exibir
+  ### 📌 Cada tela de feedback deve exibir:
 
         * Peso, altura, IMC e classificação do usuário (usando TextView)
 
@@ -95,20 +95,20 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
         * Paleta de cores definida no enunciado.
 
-  ### 📌 Funcionalidades e Requisitos
-  ### 1️⃣ Interface do Usuário (Layouts XML)
+  ### 📌 Funcionalidades e Requisitos:
+  ### 1️⃣ Interface do Usuário (Layouts XML):
 
     - Todas as telas devem ser criadas utilizando layouts XML no Android Studio.
 
     - Utilização dos componentes PlainText, TextView, Button e ImageView.
 
-  ### 2️⃣ Eventos e Navegação
+  ### 2️⃣ Eventos e Navegação:
 
     - Manipular eventos de clique nos botões para navegar entre as telas.
 
     - Passar os dados (peso, altura, IMC e classificação) entre as Activities usando Intent e Bundle.
 
-  ### 3️⃣ Cálculo do IMC
+  ### 3️⃣ Cálculo do IMC:
 
 O cálculo do Índice de Massa Corporal (IMC) deve seguir a fórmula:
 
@@ -126,7 +126,7 @@ O cálculo do Índice de Massa Corporal (IMC) deve seguir a fórmula:
 
     - Obesidade grau 3 → IMC ≥ 40
 
-  ### 5️⃣ Telas de Feedback
+  ### 5️⃣ Telas de Feedback:
 
 Cada categoria de IMC terá uma Activity específica, contendo:
 
@@ -140,7 +140,7 @@ Cada categoria de IMC terá uma Activity específica, contendo:
 
 6️⃣ Experiência do Usuário
 
-  ### 🎨 Utilização paleta de cores agradável e definida no enunciado.
+  ### 🎨 Utilização paleta de cores agradável e definida no enunciado:
 📲 Melhorias opcionais: Animações, gráficos ou outros aprimoramentos na interface.
 
 - Verde Escuro: #006341
@@ -154,42 +154,42 @@ Cada categoria de IMC terá uma Activity específica, contendo:
 - Branco: #FFFFFF
 
 
-### ⌨️ E testes de estilo de codificação
+### ⌨️ E testes de estilo de codificação:
 
 - Android Emulator – Emulador de dispositivos no Android Studio.
 
 
-## 📦 Implantação
+## 📦 Implantação:
 
 Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
-## 🛠️ Construído com
+## 🛠️ Construído com:
 
 Mencione as ferramentas que você usou para criar seu projeto
 
 * Android Studio – IDE oficial para desenvolvimento Android.
 * Java
 
-## 🖇️ Colaborando
+## 🖇️ Colaborando:
 
 Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
-## 📌 Versão
+## 📌 Versão:
 
 Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
 
-## ✒️ Autores
+## ✒️ Autores:
 
 Criador do projeto desde o seu início:
 
 * **Fernanda Loura da Silva** - *RA: 24026445* 
 
 
-## 📄 Licença
+## 📄 Licença:
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
-## 🎁 Expressões de gratidão
+## 🎁 Expressões de gratidão:
 
 * Conte a outras pessoas sobre este projeto 📢;
 * Um agradecimento publicamente 🫂;
