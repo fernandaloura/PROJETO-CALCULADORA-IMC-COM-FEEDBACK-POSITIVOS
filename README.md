@@ -4,7 +4,7 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.kyriosdata/exemplo/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.kyriosdata/exemplo)
 
 
-# Projeto Calculadora IMC com Feedback Positivos
+# 📚 Projeto Calculadora IMC com Feedback Positivos
 
 Desenvolver um aplicativo Android em Java que calcula o Índice de Massa Corporal (IMC) e exibe
 um feedback positivo personalizado para cada categoria de IMC. O aplicativo demonstra o
@@ -17,8 +17,6 @@ Abaixo do resultado da fórmula do IMC também é apresentada a categoria em que
 ## 🚀 Começando:
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos:
     Java
@@ -95,7 +93,8 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
         * Paleta de cores definida no enunciado.
 
-  ### 📌 Funcionalidades e Requisitos:
+  ### 🎯 Funcionalidades e Requisitos:
+  
   ### 1️⃣ Interface do Usuário (Layouts XML):
 
     - Todas as telas devem ser criadas utilizando layouts XML no Android Studio.
