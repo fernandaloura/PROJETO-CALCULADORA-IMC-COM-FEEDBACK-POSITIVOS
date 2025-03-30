@@ -49,6 +49,7 @@ Para o desenvolvimento do app foi utilizado as seguintes tecnologias:<br><br>
 
 
 
+
 ## 🏆 Funcionalidades e Requisitos:
 
 ✅ Entrada de dados (peso e altura)
@@ -60,6 +61,7 @@ Para o desenvolvimento do app foi utilizado as seguintes tecnologias:<br><br>
 ✅ Feedback motivacional personalizado
 
 ✅ Interface amigável e interativa
+
 
 ## 💾 Requisitos Funcionais:
 
