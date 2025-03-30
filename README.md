@@ -116,9 +116,7 @@ Para o desenvolvimento do app foi utilizado as seguintes tecnologias:<br><br>
 
         * Uma mensagem de texto positiva e motivacional relacionada à classificação.
 
-        * Um botão "Fechar" para retornar à tela principal (MainActivity).
 
-        * Paleta de cores definida no enunciado.
 
   ### 🎯 Funcionalidades e Requisitos:
   
