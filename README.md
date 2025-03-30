@@ -69,7 +69,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
      "Fechar" → Retorna para a tela principal (MainActivity).
 
-    Utilizar a paleta de cores definida no enunciado.
+      Utilizar a paleta de cores definida no enunciado.
 
   ### 📌 Cada tela de feedback deve exibir:
 
