@@ -10,6 +10,7 @@ Desenvolvimento de um aplicativo Android em Java que calcula o Índice de Massa 
 um feedback positivo personalizado para cada categoria de IMC. O aplicativo demonstra o
 uso de múltiplas Activities, manipulação de imagens, entrada e saída de dados através de PlainText
 e TextView, e lógica de programação para cálculos e condicionais. 
+
 Além disso, o projeto visa a
 aplicação de boas práticas de desenvolvimento, a exploração da criatividade do aluno e a aplicação
 de uma paleta de cores definida.
