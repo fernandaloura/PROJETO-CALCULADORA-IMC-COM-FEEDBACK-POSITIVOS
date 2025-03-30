@@ -9,7 +9,8 @@
 Desenvolvimento de um aplicativo Android em Java que calcula o Índice de Massa Corporal (IMC) e exibe
 um feedback positivo personalizado para cada categoria de IMC. O aplicativo demonstra o
 uso de múltiplas Activities, manipulação de imagens, entrada e saída de dados através de PlainText
-e TextView, e lógica de programação para cálculos e condicionais. Além disso, o projeto visa a
+e TextView, e lógica de programação para cálculos e condicionais. 
+Além disso, o projeto visa a
 aplicação de boas práticas de desenvolvimento, a exploração da criatividade do aluno e a aplicação
 de uma paleta de cores definida.
 Abaixo do resultado da fórmula do IMC também é apresentada a categoria em que o usuário se encaixa, sendo: Abaixo do peso, Peso normal, Sobrepeso, Obesidade grau 1, Obesidade grau 2 e Obesidade grau 3.
