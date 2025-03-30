@@ -50,7 +50,7 @@ Para o desenvolvimento do app foi utilizado as seguintes tecnologias:<br><br>
 
 
 
-## 🏆 Funcionalidades e Requisitos:
+## 🏆 Funcionalidades do Aplicativo:
 
 ✅ Entrada de dados (peso e altura)
 
