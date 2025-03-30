@@ -29,7 +29,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 - Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-  #Parte 1: Clone o repositório para sua máquina local e importe para o Android Studio,
+  #Parte 1: Clone o repositório para sua máquina local e importe para o Android Studio.
 
   $ git clone (https://github.com/fernandaloura/PROJETO-CALCULADORA-IMC-COM-FEEDBACK-POSITIVOS/tree/main)
 
