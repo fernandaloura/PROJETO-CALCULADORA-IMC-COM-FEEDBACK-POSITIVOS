@@ -111,7 +111,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 O cálculo do Índice de Massa Corporal (IMC) deve seguir a fórmula:
 
-  ###  O resultado do IMC deve ser classificado em seis categorias:
+  ### ✅ O resultado do IMC deve ser classificado em seis categorias:
 
     - Abaixo do peso → IMC < 18.5
 
