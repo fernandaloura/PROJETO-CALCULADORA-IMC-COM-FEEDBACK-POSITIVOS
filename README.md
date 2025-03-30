@@ -154,7 +154,7 @@ Cada categoria de IMC terá uma Activity específica, contendo:
 - Branco: #FFFFFF
 
 
-### ⌨️ E testes de estilo de codificação:
+### ⌨️ Testes de estilo de codificação:
 
 - Android Emulator – Emulador de dispositivos no Android Studio.
 
@@ -176,7 +176,13 @@ Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoS
 
 ## 📌 Versão:
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+✅ Java: 17 (ou 11 para compatibilidade)
+
+✅ Android Compile SDK: 34
+
+✅ Target SDK: 34
+
+✅ Min SDK: 24 (Android 7.0+)
 
 ## ✒️ Autores:
 
