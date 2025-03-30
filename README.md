@@ -46,8 +46,19 @@ Para o desenvolvimento do app foi utilizado as seguintes tecnologias:<br><br>
 
 
 
-## ⚙️ Funcionalidades e Requisitos:
+## 🏆 Funcionalidades e Requisitos:
 
+✅ Entrada de dados (peso e altura)
+
+✅ Cálculo automático do IMC
+
+✅ Exibição da faixa de IMC
+
+✅ Feedback motivacional personalizado
+
+✅ Interface amigável e interativa
+
+## 💾 Requisitos Funcionais:
 
 ### 1️ Tela Principal (MainActivity):
 
